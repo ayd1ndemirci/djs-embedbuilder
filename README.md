@@ -1,4 +1,4 @@
-# djs-emebdbuilder
+# djs-embedbuilder
 d-js embedbuilder bot
 
 Modules to download:
